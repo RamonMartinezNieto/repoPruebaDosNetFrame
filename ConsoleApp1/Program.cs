@@ -10,7 +10,17 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("hola");
+            Calculadora c = new Calculadora();
+            int resultado = c.suma(5, 5);
+            Console.WriteLine(resultado);
+
+        }
+    }
+
+    class Calculadora {
+
+        public int suma(int a, int b){
+            return a + b; 
         }
     }
 }
