@@ -15,3 +15,4 @@ C:\Users\RMN\source\repos\ConsoleApp1\TestUnit2\obj\Debug\TestUnit2.csproj.CoreC
 C:\Users\RMN\source\repos\ConsoleApp1\TestUnit2\obj\Debug\TestUnit2.csproj.CopyComplete
 C:\Users\RMN\source\repos\ConsoleApp1\TestUnit2\obj\Debug\TestUnit2.exe
 C:\Users\RMN\source\repos\ConsoleApp1\TestUnit2\obj\Debug\TestUnit2.pdb
+C:\Users\RMN\source\repos\ConsoleApp1\TestUnit2\obj\Debug\TestUnit2.csprojAssemblyReference.cache

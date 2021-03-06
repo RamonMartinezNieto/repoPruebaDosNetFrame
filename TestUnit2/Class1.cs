@@ -13,8 +13,8 @@ namespace TestUnit2
     class Class1
     {
             [Test]
-            public void TestSuma()
-            {
+        public void TestSuma()
+        {
                 Console.WriteLine("Iniciando Test Suma");
                 Calculadora c = new Calculadora();
 
