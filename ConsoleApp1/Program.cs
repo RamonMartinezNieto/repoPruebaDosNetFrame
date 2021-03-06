@@ -14,8 +14,8 @@ namespace ConsoleApp1
             int resultado = c.suma(5, 5);
             Console.WriteLine(resultado);
 
-            int resultadoRest = c.resta(10, 5);
-            Console.WriteLine(resultadoRest''ásdasd);
+            int resultadoRest = c.resta(10, 5); 
+            Console.WriteLine(resultadoRest);
 
         }
     }
