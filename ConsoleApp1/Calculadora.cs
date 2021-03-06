@@ -13,5 +13,10 @@ namespace ConsoleApp1
         {
             return a + b;
         }
+
+        public int resta(int v1, int v2)
+        {
+            return v1 - v2; 
+        }
     }
 }

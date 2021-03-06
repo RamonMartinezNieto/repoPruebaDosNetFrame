@@ -24,5 +24,19 @@ namespace TestUnit2
 
                 Console.WriteLine("Fin del test suma ");
         }
+
+        [Test]
+        public void TestResta() {
+
+            Console.WriteLine("Iniciando Test Resta");
+            Calculadora c = new Calculadora();
+
+            int resultado = c.resta(10, 5);
+
+            Assert.That(resultado, Is.EqualTo(5));
+
+            Console.WriteLine("Fin del test resta");
+
+        }
     }
 }
